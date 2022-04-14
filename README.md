@@ -29,12 +29,12 @@
 
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raqdrox&show_icons=true&locale=en&layout=compact" alt="raqdrox" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raqdrox&show_icons=true&locale=en&layout=compact&hide=shaderlab,hlsl,scss&theme=midnight-purple" alt="raqdrox" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raqdrox&show_icons=true&locale=en" alt="raqdrox" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raqdrox&show_icons=true&locale=en&theme=midnight-purple" alt="raqdrox" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raqdrox&" alt="raqdrox" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raqdrox&theme=midnight-purple" alt="raqdrox" /></p>
