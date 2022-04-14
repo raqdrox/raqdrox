@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raqdrox&label=Profile%20views&color=0e75b6&style=flat" alt="raqdrox" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raqdrox" alt="raqdrox" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raqdrox&theme=tokyonight" alt="raqdrox" /></a> </p>
 
 <h3 align="left">Currently Working On:</h3>
 
@@ -29,12 +29,12 @@
 
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raqdrox&show_icons=true&locale=en&layout=compact&hide=shaderlab,hlsl,scss&theme=midnight-purple" alt="raqdrox" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raqdrox&show_icons=true&locale=en&layout=compact&hide=shaderlab,hlsl,scss&theme=tokyonight" alt="raqdrox" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raqdrox&show_icons=true&locale=en&theme=midnight-purple" alt="raqdrox" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raqdrox&show_icons=true&locale=en&theme=tokyonight" alt="raqdrox" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raqdrox&theme=midnight-purple" alt="raqdrox" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raqdrox&theme=tokyonight" alt="raqdrox" /></p>
