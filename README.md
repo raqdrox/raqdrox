@@ -7,7 +7,7 @@
 
 <h3 align="left">Currently Working On:</h3>
 
-- [Njord](https://github.com/raqdrox/taskman) : A PyQT5 Based Task Manager for Linux and MacOS. 
+- [taskman](https://github.com/raqdrox/taskman) : A PyQT5 Based Task Manager for Linux and MacOS. 
 
 - [MariU](https://github.com/raqdrox/MariU) : Super Mario Bros Remake in Unity 2D.
 
