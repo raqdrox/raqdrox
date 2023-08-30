@@ -7,11 +7,11 @@
 
 <h3 align="left">Currently Working On:</h3>
 
-- [MariU](https://github.com/raqdrox/MariU) : Super Mario Bros Remake in Unity 2D 
+- [Njord](https://github.com/raqdrox/taskman) : A PyQT5 Based Task Manager for Linux and MacOS. 
 
-- [ThreeDUS](https://github.com/raqdrox/ThreeDUS) : Among Us Remake in Unity 3D 
+- [MariU](https://github.com/raqdrox/MariU) : Super Mario Bros Remake in Unity 2D.
 
-- [Njord](https://github.com/raqdrox/Njord) : Application to Show UPI Donations On Streamlabs 
+- [ThreeDUS](https://github.com/raqdrox/ThreeDUS) : Among Us Remake in Unity 3D.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
